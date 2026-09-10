@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        target="raw/startup_sound"
+        value="@raw/startup_sound" />
+</overlay>
